@@ -1,0 +1,1 @@
+You should import this library playsound : pip install playsound==1.2.2
